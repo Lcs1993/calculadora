@@ -12,7 +12,7 @@ public class Exercicio1 {
 		
 		double salarioNovo = salarioAtual*1.25;
 		
-		System.out.println("novo salário: "+salarioNovo);
+		System.out.println("novo salário: " + salarioNovo);
 
 	}
 
